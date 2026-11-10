@@ -1,2 +1,2 @@
 # SOAR
-Task app
+Task app for WHHS Project
