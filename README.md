@@ -4,7 +4,7 @@ Meeting of 11/10/2026
 
 Backend-Fast API
 
-Database-Auth0  Supabase
+Database-Clerk
 
 Frontend-Next JS Tailwind,ShadowUI,Astra(Maybe)
 
