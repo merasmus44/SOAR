@@ -14,7 +14,7 @@ export function PageLayout({
   hideDashboardLink = false,
 }: PageLayoutProps) {
   return (
-    <div className="flex min-h-screen flex-col bg-[#f8f8f5] text-[#17211b]">
+    <div className="flex min-h-screen flex-col bg-canvas text-ink">
       {!hideHeader && <SiteHeader hideDashboardLink={hideDashboardLink} />}
       <main className="mx-auto w-full max-w-7xl flex-1 px-5 py-9 sm:px-9 sm:py-12">{children}</main>
       <SiteFooter />
